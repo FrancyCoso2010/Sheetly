@@ -64,8 +64,6 @@ flutter run
 
 ## 📸 Screenshots
 
-![Sheetly Home Screen](path_to_screenshot.png)
-
 ---
 
 ## 📌 Future Features
@@ -76,7 +74,4 @@ flutter run
 
 ---
 
-## 📝 License
-
-[MIT License](LICENSE)
 
